@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ## Internship
-CSI Intern (Brookhaven National Laboratory)              Summer 2023
+CSI Intern _Brookhaven National Laboratory_ &nbsp;&nbsp;&nbsp;&nbsp; Summer 2023
